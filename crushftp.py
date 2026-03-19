@@ -1,4 +1,4 @@
-# made by NRPE | crushftp
+# made by NRPE | crushftp #
 import requests
 import base64
 import os
